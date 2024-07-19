@@ -1,3 +1,3 @@
 print(huaidan)
 print(I love you)
-print(1)
+print(12)
